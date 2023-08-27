@@ -1,0 +1,96 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.startDay,
+.endDay {
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  margin-right: 50px;
+  text-align: center;
+  padding: 0;
+  width: 198px;
+  height: 36px;
+  cursor: pointer;
+}
+.startDay:hover,
+.endDay:hover {
+  border-color: rgb(128, 128, 128, 0.7);
+}
+.endDay:disabled {
+  cursor: auto;
+  background-color: lightgray;
+  border-color: gray;
+}
+.search-btn {
+  width: 200px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  color: rgb(128, 128, 128, 1);
+  cursor: pointer;
+  border: 1px solid gray;
+  background-color: lightblue;
+  transition: 1000ms;
+}
+.search-btn:hover {
+  background-color: lightskyblue;
+  color: black;
+  transition: 750ms;
+}
+.search-btn:disabled {
+  cursor: auto;
+  background-color: lightgray;
+  border-color: gray;
+  color: rgb(128, 128, 128, 1);
+}
+.btns-container {
+  display: flex;
+  justify-content: right;
+  gap: 15px;
+  margin-right: 20px;
+  margin-top: 50px;
+}
+.btns-container > button {
+  border: none;
+  height: 30px;
+  border-radius: 5px;
+  background-color: darkgray;
+  cursor: pointer;
+}
+.btns-container > button:hover {
+  background-color: rgb(128, 128, 128, 0.8);
+}
+.checkbox {
+  width: 30px;
+  cursor: pointer;
+}
+
+.flights-list {
+  list-style: none;
+  font-size: 18px;
+  margin-top: 40px;
+}
+
+.flight-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 40px;
+}
+.flight-info {
+  text-align: justify;
+  margin-right: 40px;
+}

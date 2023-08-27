@@ -1,0 +1,324 @@
+{
+  "flights": [
+    {
+      "id": 1,
+      "origin": "Istanbul",
+      "destination": "Ankara",
+      "departureTime": "11:30",
+      "duration": "1h",
+      "landingTime": "12:30",
+      "date": "27.08.2023",
+      "price": 1250
+    },
+    {
+      "id": 2,
+      "origin": "Istanbul",
+      "destination": "Ankara",
+      "departureTime": "09:00",
+      "duration": "4h 15m",
+      "landingTime": "13:15",
+      "date": "27.08.2023",
+      "price": 1050
+    },
+    {
+      "id": 31,
+      "origin": "Ankara",
+      "destination": "Istanbul",
+      "departureTime": "11:30",
+      "duration": "1h",
+      "landingTime": "12:30",
+      "date": "28.08.2023",
+      "price": 1250
+    },
+    {
+      "id": 32,
+      "origin": "Ankara",
+      "destination": "Istanbul",
+      "departureTime": "09:00",
+      "duration": "1h 15m",
+      "landingTime": "13:15",
+      "date": "28.08.2023",
+      "price": 1050
+    },
+    {
+      "id": 3,
+      "origin": "Izmir",
+      "destination": "Antalya",
+      "departureTime": "15:00",
+      "duration": "45m",
+      "landingTime": "15:45",
+      "date": "25.08.2023",
+      "price": 1150
+    },
+    {
+      "id": 4,
+      "origin": "Ankara",
+      "destination": "Istanbul",
+      "departureTime": "14:30",
+      "duration": "1h 15m",
+      "landingTime": "15:45",
+      "date": "25.08.2023",
+      "price": 1550
+    },
+    {
+      "id": 5,
+      "origin": "Antalya",
+      "destination": "Izmir",
+      "departureTime": "17:45",
+      "duration": "45m",
+      "landingTime": "18:30",
+      "date": "26.08.2023",
+      "price": 1150
+    },
+    {
+      "id": 6,
+      "origin": "Istanbul",
+      "destination": "Antalya",
+      "departureTime": "08:15",
+      "duration": "1h",
+      "landingTime": "09:15",
+      "date": "26.08.2023",
+      "price": 1050
+    },
+    {
+      "id": 7,
+      "origin": "Ankara",
+      "destination": "Izmir",
+      "departureTime": "10:00",
+      "duration": "1h 15m",
+      "landingTime": "11:15",
+      "date": "26.08.2023",
+      "price": 1650
+    },
+    {
+      "id": 8,
+      "origin": "Antalya",
+      "destination": "Istanbul",
+      "departureTime": "13:20",
+      "duration": "1h 15m",
+      "landingTime": "14:35",
+      "date": "27.08.2023",
+      "price": 1750
+    },
+    {
+      "id": 9,
+      "origin": "Izmir",
+      "destination": "Ankara",
+      "departureTime": "16:45",
+      "duration": "45m",
+      "landingTime": "17:30",
+      "date": "27.08.2023",
+      "price": 1350
+    },
+    {
+      "id": 10,
+      "origin": "Istanbul",
+      "destination": "Izmir",
+      "departureTime": "18:30",
+      "duration": "1h",
+      "landingTime": "19:30",
+      "date": "28.08.2023",
+      "price": 1250
+    },
+    {
+      "id": 11,
+      "origin": "Ankara",
+      "destination": "Antalya",
+      "departureTime": "09:45",
+      "duration": "1h 15m",
+      "landingTime": "11:00",
+      "date": "28.08.2023",
+      "price": 1150
+    },
+    {
+      "id": 12,
+      "origin": "Antalya",
+      "destination": "Izmir",
+      "departureTime": "12:00",
+      "duration": "45m",
+      "landingTime": "12:45",
+      "date": "29.08.2023",
+      "price": 1550
+    },
+    {
+      "id": 13,
+      "origin": "Izmir",
+      "destination": "Ankara",
+      "departureTime": "14:30",
+      "duration": "45m",
+      "landingTime": "15:15",
+      "date": "29.08.2023",
+      "price": 1950
+    },
+    {
+      "id": 14,
+      "origin": "Istanbul",
+      "destination": "Antalya",
+      "departureTime": "16:15",
+      "duration": "1h",
+      "landingTime": "17:15",
+      "date": "30.08.2023",
+      "price": 1850
+    },
+    {
+      "id": 15,
+      "origin": "Ankara",
+      "destination": "Istanbul",
+      "departureTime": "18:30",
+      "duration": "1h 15m",
+      "landingTime": "19:45",
+      "date": "30.08.2023",
+      "price": 1550
+    },
+    {
+      "id": 16,
+      "origin": "Antalya",
+      "destination": "Izmir",
+      "departureTime": "10:45",
+      "duration": "45m",
+      "landingTime": "11:30",
+      "date": "31.08.2023",
+      "price": 1250
+    },
+    {
+      "id": 17,
+      "origin": "Izmir",
+      "destination": "Ankara",
+      "departureTime": "13:00",
+      "duration": "45m",
+      "landingTime": "13:45",
+      "date": "31.08.2023",
+      "price": 1150
+    },
+    {
+      "id": 18,
+      "origin": "Istanbul",
+      "destination": "Izmir",
+      "departureTime": "15:15",
+      "duration": "1h",
+      "landingTime": "16:15",
+      "date": "01.09.2023",
+      "price": 1250
+    },
+    {
+      "id": 19,
+      "origin": "Ankara",
+      "destination": "Antalya",
+      "departureTime": "17:30",
+      "duration": "1h 15m",
+      "landingTime": "18:45",
+      "date": "01.09.2023",
+      "price": 1450
+    },
+    {
+      "id": 20,
+      "origin": "Antalya",
+      "destination": "Istanbul",
+      "departureTime": "20:00",
+      "duration": "1h 15m",
+      "landingTime": "21:15",
+      "date": "02.09.2023",
+      "price": 1350
+    },
+    {
+      "id": 21,
+      "origin": "Izmir",
+      "destination": "Ankara",
+      "departureTime": "11:30",
+      "duration": "45m",
+      "landingTime": "12:15",
+      "date": "02.09.2023",
+      "price": 1750
+    },
+    {
+      "id": 22,
+      "origin": "Istanbul",
+      "destination": "Izmir",
+      "departureTime": "14:00",
+      "duration": "1h",
+      "landingTime": "15:00",
+      "date": "03.09.2023",
+      "price": 1950
+    },
+    {
+      "id": 23,
+      "origin": "Ankara",
+      "destination": "Antalya",
+      "departureTime": "16:15",
+      "duration": "1h 15m",
+      "landingTime": "17:30",
+      "date": "03.09.2023",
+      "price": 1750
+    },
+    {
+      "id": 24,
+      "origin": "Antalya",
+      "destination": "Izmir",
+      "departureTime": "18:30",
+      "duration": "45m",
+      "landingTime": "19:15",
+      "date": "04.09.2023",
+      "price": 1650
+    },
+    {
+      "id": 25,
+      "origin": "Izmir",
+      "destination": "Ankara",
+      "departureTime": "08:45",
+      "duration": "45m",
+      "landingTime": "09:30",
+      "date": "04.09.2023",
+      "price": 1250
+    },
+    {
+      "id": 26,
+      "origin": "Istanbul",
+      "destination": "Antalya",
+      "departureTime": "12:30",
+      "duration": "1h",
+      "landingTime": "13:30",
+      "date": "05.09.2023",
+      "price": 1350
+    },
+    {
+      "id": 27,
+      "origin": "Ankara",
+      "destination": "Istanbul",
+      "departureTime": "14:45",
+      "duration": "1h 15m",
+      "landingTime": "16:00",
+      "date": "05.09.2023",
+      "price": 1050
+    },
+    {
+      "id": 28,
+      "origin": "Antalya",
+      "destination": "Izmir",
+      "departureTime": "17:00",
+      "duration": "45m",
+      "landingTime": "17:45",
+      "date": "06.09.2023",
+      "price": 1150
+    },
+    {
+      "id": 29,
+      "origin": "Izmir",
+      "destination": "Ankara",
+      "departureTime": "19:15",
+      "duration": "45m",
+      "landingTime": "20:00",
+      "date": "06.09.2023",
+      "price": 1650
+    },
+    {
+      "id": 30,
+      "origin": "Istanbul",
+      "destination": "Izmir",
+      "departureTime": "10:30",
+      "duration": "1h",
+      "landingTime": "11:30",
+      "date": "07.09.2023",
+      "price": 1050
+    }
+  ]
+}
